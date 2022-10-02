@@ -1,14 +1,14 @@
 {
-  "name": "beanLiquor-Message-Generator",
+  "name": "tyshSpy-Message-Generator",
   "version": "1.0.0",
-  "description": "Generate a discord message that looks like beanliquor's saying",
+  "description": "Generate a discord message that looks like tyshSpy's saying",
   "main": "index.js",
   "author": "dragonyc1002 / kyometori",
   "license": "",
-  "homepage": "https://dragonyc1002.github.io/beanLiquorgen",
+  "homepage": "https://dragonyc1002.github.io/tyshSpygen",
   "dependencies": {
-    "@skyra/discord-components-core": "^2.11.2",
-    "@skyra/discord-components-react": "^2.11.2",
+    "@skyra/discord-components-core": "^3.4.1",
+    "@skyra/discord-components-react": "^3.4.1",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
@@ -20,10 +20,10 @@
     "yarn": "^1.22.11"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
+    "start": "react-scripts start --openssl-legacy-provider start",
+    "build": "react-scripts build --openssl-legacy-provider build",
+    "test": "react-scripts test --openssl-legacy-provider test",
+    "eject": "react-scripts eject --openssl-legacy-provider eject",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {

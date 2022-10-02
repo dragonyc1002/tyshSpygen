@@ -22,7 +22,7 @@ function random(array) {
 export default function App() {
   const now = new Date();
   const [content, setContent] = useState(random(config.content));
-  const [name, setName] = useState('豌豆酒');
+  const [name, setName] = useState('桃高臥底');
   const [avatar, setAvatar] = useState('main');
   const [color, setColor] = useState('#657c89');
   const [time, setTime] = useState(`${now.getFullYear()}/${now.getMonth()+1}/${now.getDate()}`);

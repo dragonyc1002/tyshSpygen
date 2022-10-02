@@ -1467,27 +1467,27 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@skyra/discord-components-core@^2.11.2", "@skyra/discord-components-core@^2.13.0":
-  version "2.13.0"
-  resolved "https://registry.yarnpkg.com/@skyra/discord-components-core/-/discord-components-core-2.13.0.tgz#7795ccde12cbdf961d5a2f466563ae6a896d56f4"
-  integrity sha512-n4i4I5afi0ECqCp1qBiQMoqTyg1OpqfHluku6TlMb90Y0A/qhrPYmaso5XPAbsQ4Xko2SxhhrO3/Xgm14x5wZA==
+"@skyra/discord-components-core@^3.4.1":
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/@skyra/discord-components-core/-/discord-components-core-3.4.1.tgz#9e2ce7a2e61f261e0a9d97a72a1c4cf6d615edf4"
+  integrity sha512-+BKH9FyJ7IHPA4mP2TQQhT4I9BA8Iz3YNs3G7adZcgPn/Jcfn14/OJiE+Uj9Rw3Q9DeeCHQcSM4dRj8KJA8wFw==
   dependencies:
-    "@stencil/core" "^2.12.0"
-    clsx "^1.1.1"
+    "@stencil/core" "^2.17.3"
+    clsx "^1.2.1"
     hex-to-rgba "^2.0.1"
 
-"@skyra/discord-components-react@^2.11.2":
-  version "2.13.0"
-  resolved "https://registry.yarnpkg.com/@skyra/discord-components-react/-/discord-components-react-2.13.0.tgz#96a9c4f063f00cd13fa44bbfaaf87e33fe0421e3"
-  integrity sha512-9qZw/UqiW6E8IMsozTQMRNTF/gW5Aj1RQFG4peDnqRz3PA8urEPdnJ8T3nBjH3SeVG+RwiNLZtvI7l4bwxy8ag==
+"@skyra/discord-components-react@^3.4.1":
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/@skyra/discord-components-react/-/discord-components-react-3.4.1.tgz#26ad68f2cde78cdd15c4e1ee042ad1d83932d9e7"
+  integrity sha512-ttc9Qw0y7lXOFpRs3mWvC0Uj3aNw1uCYefWTYg3ohlq6UEg96dB32IFzoC3KH4RSKNW3DYkIm+TlcVCdSGtT5g==
   dependencies:
-    "@skyra/discord-components-core" "^2.13.0"
-    tslib "^2.3.1"
+    "@skyra/discord-components-core" "^3.4.1"
+    tslib "^2.4.0"
 
-"@stencil/core@^2.12.0":
-  version "2.13.0"
-  resolved "https://registry.yarnpkg.com/@stencil/core/-/core-2.13.0.tgz#993fd74a5c7c8fe8af75848ca9df2211cd05b818"
-  integrity sha512-EEKHOHgYpg3/iFUKMXTZJjUayRul7sXDwNw0OGgkEOe4t7JWiibDkzUHuruvpbqEydX+z1+ez5K2bMMY76c2wA==
+"@stencil/core@^2.17.3":
+  version "2.18.0"
+  resolved "https://registry.yarnpkg.com/@stencil/core/-/core-2.18.0.tgz#2556b0f8d1fb6f2c06c3fb22de495d59ca7daf05"
+  integrity sha512-NLEY8Jq59smyiivBAxHKipsp9YkkW/K/Vm90zAyXQqukb12i2SFucWHJ1Ik7ropVlhmMVvigyxXgRfQ9quIqtg==
 
 "@surma/rollup-plugin-off-main-thread@^1.1.1":
   version "1.4.2"
@@ -3263,10 +3263,10 @@ cliui@^6.0.0:
     strip-ansi "^6.0.0"
     wrap-ansi "^6.2.0"
 
-clsx@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/clsx/-/clsx-1.1.1.tgz#98b3134f9abbdf23b2663491ace13c5c03a73188"
-  integrity sha512-6/bPho624p3S2pMyvP5kKBPXnI3ufHLObBFCfgx+LkeR5lg2XYy2hqZqUf45ypD8COn2bhgGJSUE+l5dhNBieA==
+clsx@^1.2.1:
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/clsx/-/clsx-1.2.1.tgz#0ddc4a20a549b59c93a4116bb26f5294ca17dc12"
+  integrity sha512-EcR6r5a8bj6pu3ycsa/E/cKVGuTgZJZdsyUYHOksG/UHIiKfjxzRxYJpyVBwYaQeOvghal9fcc4PidlgzugAQg==
 
 co@^4.6.0:
   version "4.6.0"
@@ -10582,10 +10582,15 @@ tslib@^1.8.1:
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
   integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
 
-tslib@^2.0.3, tslib@^2.3.1:
+tslib@^2.0.3:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.1.tgz#e8a335add5ceae51aa261d32a490158ef042ef01"
   integrity sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==
+
+tslib@^2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.4.0.tgz#7cecaa7f073ce680a05847aa77be941098f36dc3"
+  integrity sha512-d6xOpEDfsi2CZVlPQzGeux8XMwLT9hssAsaPYExaQMuYskwb+x1x7J371tWlbBdWHroy99KnVB6qIkUbs5X3UQ==
 
 tsutils@^3.17.1, tsutils@^3.21.0:
   version "3.21.0"
