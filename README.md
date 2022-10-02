@@ -1,10 +1,5 @@
-# AC 訊息產生器
-這個東西可以產生出一個供截圖用的，很像由用戶 AC0xRPFS001 送出的 Discord 訊息格式的東西。可以讓你用來偽造一句 AC0xRPFS001 沒說過的話來傳遍世界。
-
-## 你用這東西幹嘛
-我發現好像開始有人會去截圖我說過的話來對話，但這樣不覺得很累嗎？所以我就乾脆做個訊息產生器，讓有需要的人可以直接輸入然後截圖就好了。
-
-還有，順便學習一下在 react 中處理表單的方式。
+# 豌豆酒 訊息產生器
+這個東西可以產生出一個供截圖用的，很像由用戶 豌豆酒 送出的 Discord 訊息格式的東西。可以讓你用來偽造一句他沒說過的話來傳遍世界。
 
 ## 我也想要一個我的
 自己做。   
@@ -22,3 +17,9 @@
 
 ### build 失敗：Can't import the name export '...' from non EcmaScript module
 如果你在 build 的時候他告訴你編譯失敗，且給了以上的理由，別擔心，我也碰到了。發生這種事時，請進入你的 `node_modules/@skyra/discord-components-react/dist`，將 `index.mjs` 改名為 `index.js`。之後往後退一層，打開他的 `package.json`，把你所有看到的 `index.mjs` 通通改成 `index.js`。在這之後重 build，應該就能成功編譯了。
+
+## 來源
+[kyometori/acgen](https://github.com/kyometori/acgen)
+
+## 注意
+這只是我幫別人做的而已

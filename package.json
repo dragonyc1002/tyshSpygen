@@ -1,11 +1,11 @@
 {
-  "name": "AC-Message-Generator",
+  "name": "beanLiquor-Message-Generator",
   "version": "1.0.0",
-  "description": "Generate a discord message that looks like AC's saying",
+  "description": "Generate a discord message that looks like beanliquor's saying",
   "main": "index.js",
-  "author": "kyometori",
+  "author": "dragonyc1002 / kyometori",
   "license": "",
-  "homepage": "https://kyometori.github.io/acgen",
+  "homepage": "https://dragonyc1002.github.io/beanLiquorgen",
   "dependencies": {
     "@skyra/discord-components-core": "^2.11.2",
     "@skyra/discord-components-react": "^2.11.2",
