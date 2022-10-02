@@ -9,6 +9,7 @@ export default function NameInput(props) {
       <legend>名稱</legend>
       <select onChange={handleChange}>
         <NameOption name="桃高臥底" />
+	  	<NameOption name="海豚" />
 	  </select>
     </fieldset>
   );
