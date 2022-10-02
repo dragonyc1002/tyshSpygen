@@ -3,8 +3,8 @@
     "static/js/0.104957ab.chunk.js": "/tyshSpygen/static/js/0.104957ab.chunk.js",
     "static/js/0.104957ab.chunk.js.map": "/tyshSpygen/static/js/0.104957ab.chunk.js.map",
     "main.css": "/tyshSpygen/static/css/main.474e24b8.chunk.css",
-    "main.js": "/tyshSpygen/static/js/main.2ff042d1.chunk.js",
-    "main.js.map": "/tyshSpygen/static/js/main.2ff042d1.chunk.js.map",
+    "main.js": "/tyshSpygen/static/js/main.112a9206.chunk.js",
+    "main.js.map": "/tyshSpygen/static/js/main.112a9206.chunk.js.map",
     "polyfills-dom.js": "/tyshSpygen/static/js/polyfills-dom.279230e9.chunk.js",
     "polyfills-dom.js.map": "/tyshSpygen/static/js/polyfills-dom.279230e9.chunk.js.map",
     "runtime-main.js": "/tyshSpygen/static/js/runtime-main.2a429c1d.js",
@@ -23,6 +23,6 @@
     "static/js/runtime-main.2a429c1d.js",
     "static/js/4.4d3ebf32.chunk.js",
     "static/css/main.474e24b8.chunk.css",
-    "static/js/main.2ff042d1.chunk.js"
+    "static/js/main.112a9206.chunk.js"
   ]
 }
