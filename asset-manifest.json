@@ -1,0 +1,28 @@
+{
+  "files": {
+    "static/js/0.104957ab.chunk.js": "/tyshSpygen/static/js/0.104957ab.chunk.js",
+    "static/js/0.104957ab.chunk.js.map": "/tyshSpygen/static/js/0.104957ab.chunk.js.map",
+    "main.css": "/tyshSpygen/static/css/main.474e24b8.chunk.css",
+    "main.js": "/tyshSpygen/static/js/main.2ff042d1.chunk.js",
+    "main.js.map": "/tyshSpygen/static/js/main.2ff042d1.chunk.js.map",
+    "polyfills-dom.js": "/tyshSpygen/static/js/polyfills-dom.279230e9.chunk.js",
+    "polyfills-dom.js.map": "/tyshSpygen/static/js/polyfills-dom.279230e9.chunk.js.map",
+    "runtime-main.js": "/tyshSpygen/static/js/runtime-main.2a429c1d.js",
+    "runtime-main.js.map": "/tyshSpygen/static/js/runtime-main.2a429c1d.js.map",
+    "static/js/4.4d3ebf32.chunk.js": "/tyshSpygen/static/js/4.4d3ebf32.chunk.js",
+    "static/js/4.4d3ebf32.chunk.js.map": "/tyshSpygen/static/js/4.4d3ebf32.chunk.js.map",
+    "static/js/5.63775f80.chunk.js": "/tyshSpygen/static/js/5.63775f80.chunk.js",
+    "static/js/5.63775f80.chunk.js.map": "/tyshSpygen/static/js/5.63775f80.chunk.js.map",
+    "index.html": "/tyshSpygen/index.html",
+    "static/css/main.474e24b8.chunk.css.map": "/tyshSpygen/static/css/main.474e24b8.chunk.css.map",
+    "static/js/4.4d3ebf32.chunk.js.LICENSE.txt": "/tyshSpygen/static/js/4.4d3ebf32.chunk.js.LICENSE.txt",
+    "static/js/polyfills-dom.279230e9.chunk.js.LICENSE.txt": "/tyshSpygen/static/js/polyfills-dom.279230e9.chunk.js.LICENSE.txt",
+    "static/media/avatar-main.7c7b135a.png": "/tyshSpygen/static/media/avatar-main.7c7b135a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a429c1d.js",
+    "static/js/4.4d3ebf32.chunk.js",
+    "static/css/main.474e24b8.chunk.css",
+    "static/js/main.2ff042d1.chunk.js"
+  ]
+}
