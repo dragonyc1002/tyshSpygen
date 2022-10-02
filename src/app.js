@@ -60,8 +60,8 @@ export default function App() {
   return (
     <>
       <header>
-        <div id="title">豌豆酒 訊息產生器</div>
-        <a href="https://github.com/dragonyc1002/beanLiquorgen">原始碼</a>
+        <div id="title">桃高臥底 訊息產生器</div>
+        <a href="https://github.com/dragonyc1002/tyshSpygen">原始碼</a>
       </header>
       <div id="inputs">
         <LightInput default={light} onCheckChange={handleEnableLightTheme}/>
